@@ -29,19 +29,7 @@ YTdown是一个功能强大的Python命令行工具，秉承效率至上的宗�
 - 内置FFmpeg自动下载(Windows)
 - 多平台兼容处理
 - 智能解决403访问限制
-
-#### 安装方法
-```bash
-# 克隆仓库
-git clone https://github.com/yourusername/YTdown.git
-
-# 安装依赖
-pip install -r requirements.txt
-
-# 主要依赖
-yt-dlp requests tqdm pyyaml
-```
-
+- 
 #### 使用说明
 1. **配置API密钥**：
    编辑脚本，将`SILICONFLOW_API_KEY`替换为您的[硅基流动API密钥](https://www.siliconflow.com/)
