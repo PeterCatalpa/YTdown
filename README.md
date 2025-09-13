@@ -34,7 +34,7 @@ YTdown是一个功能强大的Python命令行工具，秉承效率至上的宗�
 #### 安装方法
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/YTdown.git
+git clone https://github.com/PeterCatalpa/YTdown.git
 
 # 安装依赖
 pip install -r requirements.txt
