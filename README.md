@@ -37,7 +37,7 @@ YTdown是一个功能强大的Python命令行工具，秉承效率至上的宗�
 git clone https://github.com/PeterCatalpa/YTdown.git
 
 # 安装依赖
-pip install -r requirements.txt
+pip install -r requirements.txt --upgrade
 
 # 主要依赖
 yt-dlp requests tqdm pyyaml
